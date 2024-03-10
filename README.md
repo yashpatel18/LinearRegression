@@ -1,2 +1,2 @@
 # LinearRegression
-Predicting the height of a person based on the weight
+One Simple linear regression and multivariate linear regression
